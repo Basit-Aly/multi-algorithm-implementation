@@ -1,4 +1,4 @@
-# Multialgorithm Evaluation on UCI Classification Datasets
+# Multi-Algorithm Evaluation on UCI Classification Datasets
 
 This project evaluates the performance of multiple machine learning algorithms using five classification datasets from the UCI Machine Learning Repository. The goal was to analyze and compare models using 10x10-fold cross-validation across key performance metrics.
 
@@ -31,8 +31,8 @@ Each dataset was selected based on diversity in structure, application domain, a
 5. Naïve Bayes
 6. Logistic Regression
 7. 3 Layer Fully Connected Neural Network
-8. 3 Layer Fully Connected Neural Network with L2 Regularization
-9. 3 Layer Fully Connected Neural Network with L1 Regularization
+8. 3 Layer Fully Connected Neural Network with L2 Norm
+9. 3 Layer Fully Connected Neural Network with L1 Norm
 
 ## Results
 
